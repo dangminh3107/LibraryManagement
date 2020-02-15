@@ -1,0 +1,4 @@
+mag1 mag1,admin,none,none,none,none,pro
+mag2 mag2,admin,none,990990990,none,none,block
+mag3 mag3,none,none,none,none,none,activated
+mag4 mag4,none,none,none,none,none,activated

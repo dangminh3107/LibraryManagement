@@ -1,0 +1,4 @@
+staff1 staff1,admin,none,none,none,none,pro
+staff2 staff2,admin,none,none,none,none,pro
+staff3 staff3,none,none,none,none,none,block
+stafff stafff,yahoo,12,12312,vn,nam,activated

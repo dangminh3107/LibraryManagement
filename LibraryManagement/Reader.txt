@@ -1,0 +1,5 @@
+1 dang hong minh,341982314,31/7/1999,nam,navy317@gmail.com,dong thap,10/3/2017
+2 cao thanh nhan,331203252,11/12/1999,nam,nhanlon@gmail.com,dong thap,20/4/2015
+3 nhut truong,342903213,12/11/1999,nam,truonglon@gmail.com,dong thap,12/5/2010
+4 tan phat,909323123,14/14/1999,nam,phatlon@mail.com,tien giang,3/6/2009
+5 minh nghia,100239242,15/6/1999,nam,nghialon@mail.com,dong thap,6/6/2000

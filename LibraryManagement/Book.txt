@@ -1,0 +1,34 @@
+A1 Doraemon,Kim Dong,Fujiko.F.Fujio,2000,Comic,50000,10
+A2 Conan,Kim Dong,Gosho Aoyama,2001,Comic,80000,15
+A3 Gintama,Kim Dong,Hideaki Sorachi,Comic,2004,60000,14
+A4 Muoi Bay Nam Anh Sang,Dan Tri,Zen,Comic,2017,70000,12
+A5 Inuyasha,Tre,Rumiko Takahashi,Comic,2000,65000,20
+B1 Gulliver Du Ky,Van Hoc,Jonathan Swift,2018,Literature,75000,20
+B2 Than Thoai Hy Lap,Lao Dong,Phan Ngoc,2018,Literature,58000,15
+B3 Dau Do Van Co Tinh Yeu,Bao Sinh Vien VN-Hoa Hoc Tro,Hien Huy,2018,Literature,65000,25
+B4 Ben Troi Ngan Mai Khuc Dao Hoa,Nha Nam,Chau Van Van,2018,Literature,69000,15
+B5 Nhung Ke Kho Thich Nghi,Van Hoa-Van Nghe,Tra Doa,2017,Literature,70000,15
+C1 NLP English Mastery,DHQG Ha Noi,Do Thi Minh Ha,2018,Foreign Language,100000,25
+C2 Tieng Anh Giao Tiep Hien Dai,Hong Duc,Tri Thuc Viet,2018,Foreign Language,90000,24
+C3 Nhung Mau Van Ban Tieng Han,DHQG TP.HCM,Le Huy Khoa,2018,Foreign Language,80000,14
+C4 Giao Tiep Tieng Anh Khong Kho,Da Nang,Nguyen Thanh Loan,2018,Foreign Language,76000,10
+C5 Hikari-Giao Trinh Ngu Phap Nhat,Dan Tri,Hoang Quynh,2018,Foreign Language,75000,19
+D1 Su Viet-12 Khuc Trang Ca,Hoi Nha Van,Dung Phan,2017,History,65000,5
+D2 Sapiens-Luoc Su Loai Nguoi,Tri Thuc,Yuval Noah Harari,2017,History,86000,18
+D3 NAPOLEON Dai De,The Gioi,Andrew Roberts,2017,History,76000,20
+D4 Guns Germs and Steel,The Gioi,Jared Diamond,2018,History,88000,21
+D5 Viet Nam Su Luoc,Khoa hoc xa hoi,Tran Trong Kim,2017,History,67000,23
+D6 The Gioi Mot Thoang Nay,Tong Hop,David Christian,2016,History,70000,32
+E1 Tu Dong Hoa Voi WINCC,Hong Duc,Tran Thu Ha,2011,Information Technology,58000,22
+E2 Lap Trinh Voi SCRATCH,Giao Duc Viet Nam,Nguyen Huu Hung,2017,Information Technology,66000,20
+E3 Ky Nghe Phan Mem,Thong Tin Va Truyen Thong,Le Van Phung,2017,Information Technology,70000,19
+E4 Doanh Nghiep Va Dien Toan Dam May,Dai Hoc FPT,Dai Hoc FPT,2015,Information Technology,80000,20
+F1 Nhan To Enzyme,The Gioi,Hiromi Shinya,2017,Medicine,86000,12
+F2 Detox For Dummies,Lao Dong,Caroline Shreeve,2017,Medicine,88000,11
+F3 Tho Va Thien,Hong Duc,Nhieu Tac Gia,2014,Medicine,85000,16
+F4 Hy Vong Va Phuc Hoi,Y Hoc,Ang Peng Tiam,2015,Medicine,92000,18
+G1 School 2015: Who Are You,Thanh Nien,Ngan Ha,2018,Journal,55000,22
+G2 Mien Co Tich,Hong Duc,Thai Phien,2018,Journal,45000,20
+G3 Bao Chi Luong Tam,Tre,Do Dinh Tan,2016,Journal,59000,31
+G4 Tap Chi Thoi Gian,Thanh Nien,Nhieu Tac Gia,2017,Journal,62000,31
+G5 Pi Tap Chi Toan Hoc,Hoi Toan Hoc Viet Nam,Hoi Toan Hoc Viet Nam,2017,Journal,49000,25
